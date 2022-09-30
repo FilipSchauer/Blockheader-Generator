@@ -1,0 +1,5 @@
+c:\BlockheaderGenerator2022.exe
+c:\BlockheaderGenerator2022.dll
+c:\BlockheaderGenerator2022.deps.json
+c:\BlockheaderGenerator2022.runtimeconfig.json
+c:\BlockheaderGenerator2022.pdb

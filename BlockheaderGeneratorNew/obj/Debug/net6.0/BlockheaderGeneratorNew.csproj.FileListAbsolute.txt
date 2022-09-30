@@ -1,0 +1,15 @@
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\bin\Debug\net6.0\BlockheaderGeneratorNew.exe
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\bin\Debug\net6.0\BlockheaderGeneratorNew.deps.json
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\bin\Debug\net6.0\BlockheaderGeneratorNew.runtimeconfig.json
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\bin\Debug\net6.0\BlockheaderGeneratorNew.dll
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\bin\Debug\net6.0\BlockheaderGeneratorNew.pdb
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0\BlockheaderGeneratorNew.csproj.AssemblyReference.cache
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0\BlockheaderGeneratorNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0\BlockheaderGeneratorNew.AssemblyInfoInputs.cache
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0\BlockheaderGeneratorNew.AssemblyInfo.cs
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0\BlockheaderGeneratorNew.csproj.CoreCompileInputs.cache
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0\BlockheaderGeneratorNew.dll
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0\refint\BlockheaderGeneratorNew.dll
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0\BlockheaderGeneratorNew.pdb
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0\BlockheaderGeneratorNew.genruntimeconfig.cache
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0\ref\BlockheaderGeneratorNew.dll

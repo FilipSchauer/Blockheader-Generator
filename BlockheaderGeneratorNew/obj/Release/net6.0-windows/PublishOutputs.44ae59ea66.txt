@@ -1,0 +1,5 @@
+C:\Users\FamZauner\Documents\BlockheaderGenerator\BlockheaderGenerator2022.exe
+C:\Users\FamZauner\Documents\BlockheaderGenerator\BlockheaderGenerator2022.dll
+C:\Users\FamZauner\Documents\BlockheaderGenerator\BlockheaderGenerator2022.deps.json
+C:\Users\FamZauner\Documents\BlockheaderGenerator\BlockheaderGenerator2022.runtimeconfig.json
+C:\Users\FamZauner\Documents\BlockheaderGenerator\BlockheaderGenerator2022.pdb

@@ -1,0 +1,16 @@
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\bin\Debug\net6.0-windows\BlockheaderGeneratorNew.exe
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\bin\Debug\net6.0-windows\BlockheaderGeneratorNew.deps.json
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\bin\Debug\net6.0-windows\BlockheaderGeneratorNew.runtimeconfig.json
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\bin\Debug\net6.0-windows\BlockheaderGeneratorNew.dll
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\bin\Debug\net6.0-windows\BlockheaderGeneratorNew.pdb
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0-windows\BlockheaderGeneratorNew.csproj.AssemblyReference.cache
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0-windows\BlockheaderGeneratorNew.csproj.ResolveComReference.cache
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0-windows\BlockheaderGeneratorNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0-windows\BlockheaderGeneratorNew.AssemblyInfoInputs.cache
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0-windows\BlockheaderGeneratorNew.AssemblyInfo.cs
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0-windows\BlockheaderGeneratorNew.csproj.CoreCompileInputs.cache
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0-windows\BlockheaderGeneratorNew.dll
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0-windows\refint\BlockheaderGeneratorNew.dll
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0-windows\BlockheaderGeneratorNew.pdb
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0-windows\BlockheaderGeneratorNew.genruntimeconfig.cache
+C:\Users\FamZauner\source\repos\BlockheaderGeneratorNew\BlockheaderGeneratorNew\obj\Debug\net6.0-windows\ref\BlockheaderGeneratorNew.dll

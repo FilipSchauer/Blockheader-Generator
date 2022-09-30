@@ -1,0 +1,5 @@
+c:\BlockheaderGeneratorNew.exe
+c:\BlockheaderGeneratorNew.dll
+c:\BlockheaderGeneratorNew.deps.json
+c:\BlockheaderGeneratorNew.runtimeconfig.json
+c:\BlockheaderGeneratorNew.pdb

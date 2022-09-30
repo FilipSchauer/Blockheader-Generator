@@ -14,22 +14,17 @@ public class Program
     const string NAME_FILE = "C:/ProgramData/BlockheaderGenerator/name.txt";
     const string CLASS_FILE = "C:/ProgramData/BlockheaderGenerator/class.txt";
 
-    private static bool exit = false;
-
     private delegate string Format(string input);
 
     [STAThread]
     public static void Main()
     {
-        while (!exit)
+        while (true)
         {
-            if (!Directory.Exists(PATH))
-            {
-                Directory.CreateDirectory(PATH);
-            }
-
             string arg = GetInput("Type in the description, write your name using \"-[name]\" " +
                 "or change the class with @[class].");
+
+            Directory.CreateDirectory(PATH);
 
             if (arg.Length > 0)
             {
@@ -38,15 +33,17 @@ public class Program
                 if (!SetFile(arg, "name", '-', NAME_FILE, Title) &&
                     !SetFile(arg, "class", '@', CLASS_FILE, Upper))
                 {
-                    Clipboard.SetText(GetBlockheader(arg));
+                    string blockheader = GetBlockheader(arg);
+
+                    WriteLineColor("\n\n" + blockheader + "\n\n", ConsoleColor.Blue);
+
+                    Clipboard.SetText(blockheader);
 
                     WriteLineColor("\nThe Blockheader has been copied to Clipboard.\n", ConsoleColor.Green);
                 }
             }
             else
-            {
-                exit = true;
-            }
+                return;
         }
     }
 
@@ -65,10 +62,8 @@ public class Program
             else
             {
                 File.WriteAllText(file, arg);
-                WriteLineColor($"\n\"{arg}\" saved in \"{file}\" as {name}.\n", ConsoleColor.Yellow);
+                WriteLineColor($"\n\"{arg}\" saved in \"{file}\" as {name}.\n", ConsoleColor.DarkYellow);
             }
-
-            Main();
             return true;
         }
         return false;
@@ -88,8 +83,8 @@ public class Program
         if (resetColor) 
             Console.ResetColor();
     }
-    private static void WriteLineColor(string arg, ConsoleColor color) =>
-        WriteColor(arg + '\n', color);
+    private static void WriteLineColor(string arg, ConsoleColor color)
+        => WriteColor(arg + '\n', color);
 
     private static string Title(string input)
     {
@@ -105,9 +100,7 @@ public class Program
     }
 
     static char CharToUpper(char c)
-    {
-        return (char)(c >= 'a' && c <= 'z' ? c - 32 : c);
-    }
+        => (char)(c >= 'a' && c <= 'z' ? c - 32 : c);
 
     static string GetBlockheader(string description)
     {

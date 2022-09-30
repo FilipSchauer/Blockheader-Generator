@@ -140,21 +140,17 @@ public class Program
 
         foreach (string word in words)
         {
-            if ((currentLine + word).Length > 62 && word.Length <= 62)
+            if ((currentLine + word).Length > 62)
             {
                 totalLines += currentLine + "\n * ";
-                currentLine = word + ' ';
+                currentLine = "";
             }
-            else
-            {
-                currentLine += word + ' ';
-            }
+            currentLine += word + ' ';
         }
 
         return totalLines + currentLine;
     }
 
-    
     static string BasicFormatting(string input)
     {
         string output = "";

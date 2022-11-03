@@ -3,7 +3,8 @@ Creates C# Blockheaders for the school HTBLA-Leonding.
 Date will be automatically set and description will be automatically formatted.
 You can optionally set the name and class, which will be remembered every time you use the generator.
 
----
+----------
+
 ## Example:
 
 - `-filip schauer`: Sets the name to "Filip Schauer".
@@ -22,3 +23,7 @@ You can optionally set the name and class, which will be remembered every time y
  * --------------------------------------------------------------
 */
 ```
+
+----------
+
+Output will be automatically copied to clipboard, and data will be saved in "C:/ProgramData/BlockheaderGenerator" (folder and/or files will get created if non-existent)
